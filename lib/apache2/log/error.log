@@ -1,2 +1,5 @@
 [Thu Oct 22 04:03:53.766152 2015] [mpm_prefork:notice] [pid 15426] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.13 configured -- resuming normal operations
 [Thu Oct 22 04:03:53.766215 2015] [core:notice] [pid 15426] AH00094: Command line: 'apache2'
+[Sat Oct 24 23:18:35.010339 2015] [core:warn] [pid 23440] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 24 23:18:35.016083 2015] [mpm_prefork:notice] [pid 23440] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.13 configured -- resuming normal operations
+[Sat Oct 24 23:18:35.016108 2015] [core:notice] [pid 23440] AH00094: Command line: 'apache2'
